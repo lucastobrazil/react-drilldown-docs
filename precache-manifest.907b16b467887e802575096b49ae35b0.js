@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/react-drilldown-docs/static/js/runtime~main.d1615a7f.js"
   },
   {
-    "revision": "c77a95345e34337de8d8",
+    "revision": "701263ffc586d4569b3e",
     "url": "/react-drilldown-docs/static/js/main.f193917f.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/react-drilldown-docs/static/js/2.854da8aa.chunk.js"
   },
   {
-    "revision": "c77a95345e34337de8d8",
-    "url": "/react-drilldown-docs/static/css/main.a1912c78.chunk.css"
+    "revision": "701263ffc586d4569b3e",
+    "url": "/react-drilldown-docs/static/css/main.b087371c.chunk.css"
   },
   {
-    "revision": "f5bdcff7ab2360ea2be3545813104a59",
+    "revision": "33ed5673e420ed3f59ddbcbc26f2c62c",
     "url": "/react-drilldown-docs/index.html"
   }
 ];
