@@ -4,4 +4,5 @@
     padding-bottom: 60px;
     background: #f6f6cb;
     min-height: 420px;
+    flex-wrap: wrap;
 }
