@@ -1,0 +1,18 @@
+.Concept {
+    background: var(--foreground);
+    width: 100%;
+    padding: 40px 0;
+    text-align: left;
+    color: var(--primary);
+}
+
+.Concept-inner {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+}
+@media (max-width: 850px) {
+    .Concept-inner  {
+      padding: 0 20px;
+    }
+}
